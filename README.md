@@ -51,11 +51,12 @@ Finally, use the testing data to evaluate each model and compare the performance
 Use the above to answer the following:
 
 > Which model has a lower loss?
->
+>   The closing model has a lower loss of 0.044, when compared to the fng model, which has a loss of 0.339.
 > Which model tracks the actual values better over time?
->
+>The closing does a much better job of tracking the actual values, as is illustrated by the plot.
 > Which window size works best for the model?
 
+The optimal size for running the model is 10.
 - - -
 
 ### Resources
